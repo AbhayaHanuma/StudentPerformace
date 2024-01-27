@@ -10,6 +10,8 @@ This project aims to predict the math score of students based on various factors
 - Deployment to AWS Elastic Beanstalk for scalable and reliable hosting
 - Flask web application that provides a user interface for interacting with the model
 
+Link to access the deployed application - (http://studentperformance-env.eba-gjnxjvpq.eu-north-1.elasticbeanstalk.com/)
+
 ## Requirements
 
 - Python 3.8 or higher
